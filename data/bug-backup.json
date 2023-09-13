@@ -1,0 +1,36 @@
+[
+    {
+        "_id": "abc100",
+        "title": "Cannot save a Car",
+        "description": "problem when clicking Save",
+        "severity": 100,
+        "createdAt": 11421073554,
+        "labels": [
+            "critical",
+            "save",
+            "bright"
+        ],
+        "owner": {
+            "_id": "u101",
+            "fullname": "Puki Ja",
+            "score": 100
+        }
+    },
+    {
+        "_id": "abc101",
+        "title": "Cannot remove a Car",
+        "description": "problem when clicking Remove",
+        "severity": 30,
+        "createdAt": 12407869454,
+        "labels": [
+            "wealthy",
+            "remove",
+            "good-looking"
+        ],
+        "owner": {
+            "_id": "u102",
+            "fullname": "Muki Ba",
+            "score": 100
+        }
+    }
+]
